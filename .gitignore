@@ -1,1 +1,8 @@
+node_modules/
+
 /src/config/
+
+# dotenv environment variables file
+.env*
+
+.gitignore
